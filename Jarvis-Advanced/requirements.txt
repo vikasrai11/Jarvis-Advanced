@@ -1,0 +1,32 @@
+API:
+
+Image_gen model--Hugging face
+Mistral AI
+NEWS API
+
+
+All imports:
+
+import subprocess
+from difflib import get_close_matches as find
+from os import system
+import pyttsx3
+import speech_recognition
+import os 
+import pyautogui
+import webbrowser
+import pyttsx3
+from time import sleep
+import mediapipe as mp
+import cv2
+import pyautogui
+import antigravity
+import datetime
+import requests
+from bs4 import BeautifulSoup
+import requests
+from tkinter import * 
+from PIL import Image,ImageTk,ImageSequence 
+import time
+from pygame import mixer
+from pynput.keyboard import Key,Controller
